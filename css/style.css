@@ -1,0 +1,48 @@
+body
+{
+    width: 960px;
+ 
+}
+header h1
+{
+    padding: 20px;
+    text-align: center;
+    background-color: #087765;
+}
+form
+{
+    margin-left: 5px;
+}
+fieldset
+{
+    display: grid;
+    width: 70px;
+}
+
+#submit
+{
+    
+    background-color: #346d22;
+}
+
+span ul :first-child(1)
+
+{
+    color: #ffd3de;
+}
+span ul :first-child(2)
+
+{
+    color:#f6b8d1;
+}
+span li {
+    display: list-item;
+  }
+
+  footer
+  {
+      text-align: center;
+      background-color: #3cb1b1;
+      margin-top: 331px;
+      padding: 15px;
+  }
